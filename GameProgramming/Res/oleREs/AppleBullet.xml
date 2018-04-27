@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="flying" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="373" y="24" w="7" h="6" oX="373" oY="24" oW="-343" oH="7" />
+  </Animation>
+  <Animation name="popping" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="394" y="23" w="7" h="9" oX="394" oY="23" oW="-469" oH="132" />
+    <sprite x="414" y="18" w="19" h="17" oX="414" oY="18" oW="-469" oH="132" />
+    <sprite x="444" y="16" w="29" h="21" oX="444" oY="16" oW="-469" oH="132" />
+    <sprite x="484" y="14" w="32" h="26" oX="484" oY="14" oW="-469" oH="132" />
+    <sprite x="531" y="12" w="31" h="28" oX="531" oY="12" oW="-469" oH="132" />
+  </Animation>
+</Animations>

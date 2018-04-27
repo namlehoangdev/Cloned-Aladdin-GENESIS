@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Exploding" imagePath="explosion.png" width="620" height="315">
+    <sprite x="376" y="14" w="30" h="28" oX="376" oY="14" oW="250" oH="667" />
+    <sprite x="416" y="0" w="43" h="42" oX="416" oY="0" oW="250" oH="667" />
+    <sprite x="467" y="1" w="46" h="44" oX="467" oY="1" oW="250" oH="667" />
+    <sprite x="515" y="0" w="52" h="46" oX="515" oY="0" oW="250" oH="667" />
+    <sprite x="571" y="0" w="49" h="48" oX="571" oY="0" oW="250" oH="667" />
+    <sprite x="40" y="146" w="60" h="48" oX="40" oY="146" oW="250" oH="667" />
+    <sprite x="112" y="109" w="81" h="85" oX="112" oY="109" oW="250" oH="667" />
+    <sprite x="200" y="114" w="83" h="80" oX="200" oY="114" oW="250" oH="667" />
+    <sprite x="296" y="115" w="82" h="79" oX="296" oY="115" oW="250" oH="667" />
+    <sprite x="488" y="122" w="83" h="72" oX="488" oY="122" oW="250" oH="667" />
+    <sprite x="0" y="205" w="80" h="69" oX="0" oY="205" oW="250" oH="667" />
+    <sprite x="88" y="208" w="82" h="66" oX="88" oY="208" oW="250" oH="667" />
+    <sprite x="184" y="213" w="83" h="61" oX="184" oY="213" oW="250" oH="667" />
+    <sprite x="278" y="214" w="85" h="60" oX="278" oY="214" oW="250" oH="667" />
+    <sprite x="366" y="218" w="84" h="67" oX="366" oY="218" oW="250" oH="667" />
+    <sprite x="456" y="229" w="56" h="51" oX="456" oY="229" oW="250" oH="667" />
+    <sprite x="516" y="231" w="36" h="46" oX="516" oY="231" oW="250" oH="667" />
+    <sprite x="570" y="235" w="50" h="47" oX="570" oY="235" oW="250" oH="667" />
+  </Animation>
+  <Animation name="Empty" imagePath="explosion.png" width="620" height="315" />
+
+    <sprite x="274" y="295" w="56" h="19" oX="274" oY="295" oW="59" oH="56" />
+    <sprite x="274" y="295" w="56" h="19" oX="274" oY="295" oW="59" oH="56" />
+    <sprite x="274" y="295" w="56" h="19" oX="274" oY="295" oW="59" oH="56" />
+	
+</Animations>

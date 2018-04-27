@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="None" imagePath="Enemy2.png" width="391" height="609">
+    <sprite x="346" y="337" w="45" h="71" oX="346" oY="337" oW="49" oH="45" />
+  </Animation>
+</Animations>

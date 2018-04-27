@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="IdleDownThrow" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="928" y="28" w="36" h="43" oX="928" oY="28" oW="-552" oH="116" />
+    <sprite x="928" y="96" w="37" h="47" oX="928" oY="96" oW="-552" oH="116" />
+    <sprite x="928" y="172" w="50" h="47" oX="928" oY="172" oW="-552" oH="116" />
+    <sprite x="917" y="252" w="82" h="36" oX="917" oY="252" oW="-552" oH="116" />
+    <sprite x="921" y="323" w="57" h="36" oX="921" oY="323" oW="-552" oH="116" />
+  </Animation>
+  <Animation name="SwingThrow" imagePath="Aladdin.png" width="1121" height="2718" />
+</Animations>

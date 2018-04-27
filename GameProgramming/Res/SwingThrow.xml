@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="SwingThrow" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="841" y="1058" w="36" h="86" oX="841" oY="1058" oW="610" oH="76" />
+    <sprite x="838" y="1163" w="40" h="86" oX="838" oY="1163" oW="610" oH="76" />
+    <sprite x="847" y="1278" w="30" h="88" oX="847" oY="1278" oW="610" oH="76" />
+    <sprite x="841" y="1391" w="57" h="88" oX="841" oY="1391" oW="610" oH="76" />
+  </Animation>
+</Animations>

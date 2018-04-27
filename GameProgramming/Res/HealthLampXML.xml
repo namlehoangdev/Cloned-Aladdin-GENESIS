@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Idle" imagePath="HealthLamp.png" width="267" height="643" delay="2">
+    <sprite x="21" y="19" w="242" h="65" oX="21" oY="19" oW="695" oH="264" />
+    <sprite x="15" y="131" w="241" h="65" oX="15" oY="131" oW="695" oH="264" />
+    <sprite x="20" y="243" w="243" h="66" oX="20" oY="243" oW="695" oH="264" />
+    <sprite x="5" y="346" w="246" h="66" oX="5" oY="346" oW="695" oH="264" />
+    <sprite x="7" y="449" w="245" h="65" oX="7" oY="449" oW="695" oH="264" />
+    <sprite x="19" y="563" w="243" h="66" oX="19" oY="563" oW="695" oH="264" />
+  </Animation>
+</Animations>

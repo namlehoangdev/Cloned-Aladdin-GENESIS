@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	<Animation width="1250" height="648" name="EnemyFatIdle" imagePath="Enemy1.png" delay="3">
+		<sprite x="878" right="926" w="48" y="45" h="43" bottom="88" />
+		<sprite x="881" right="923" w="42" y="101" h="49" bottom="150" />
+		<sprite x="882" right="922" w="40" y="173" h="45" bottom="218" />
+		<sprite x="881" right="923" w="42" y="232" h="43" bottom="275" />
+		<sprite x="874" right="930" w="56" y="285" h="45" bottom="330" />
+		<sprite x="874" right="930" w="56" y="342" h="51" bottom="393" />
+		<sprite x="875" right="929" w="54" y="401" h="48" bottom="449" />
+	</Animation>
+	<Animation width="1250" height="648" name="EnemyFatSlash" imagePath="Enemy1.png" delay="3">
+		<sprite x="946" right="1008" w="62" y="40" h="49" bottom="89" />
+		<sprite x="938" right="1016" w="78" y="99" h="57" bottom="156" />
+		<sprite x="954" right="1000" w="46" y="169" h="59" bottom="228" />
+		<sprite x="938" right="1016" w="78" y="246" h="49" bottom="295" />
+		<sprite x="952" right="1002" w="50" y="313" h="43" bottom="356" />
+		<sprite x="959" right="995" w="36" y="369" h="51" bottom="420" />
+	</Animation>
+	<Animation width="1250" height="648" name="EnemyFatRun" imagePath="Enemy1.png" delay="3">
+		<sprite x="1035" right="1073" w="38" y="38" h="51" bottom="89" />
+		<sprite x="1034" right="1074" w="40" y="107" h="49" bottom="156" />
+		<sprite x="1034" right="1074" w="40" y="172" h="46" bottom="218" />
+		<sprite x="1035" right="1073" w="38" y="230" h="54" bottom="284" />
+		<sprite x="1032" right="1076" w="44" y="300" h="59" bottom="359" />
+		<sprite x="1034" right="1074" w="40" y="370" h="54" bottom="424" />
+		<sprite x="1035" right="1073" w="38" y="437" h="47" bottom="484" />
+		<sprite x="1037" right="1071" w="34" y="490" h="50" bottom="540" />
+	</Animation>
+	<Animation width="1250" height="648" name="EnemyFatBeaten" imagePath="Enemy1.png" delay="3">
+		<sprite x="1087" right="1163" w="76" y="33" h="51" bottom="84" />
+		<sprite x="1088" right="1162" w="74" y="103" h="50" bottom="153" />
+		<sprite x="1088" right="1162" w="74" y="166" h="49" bottom="215" />
+		<sprite x="1087" right="1163" w="76" y="238" h="49" bottom="287" />
+		<sprite x="1088" right="1162" w="74" y="309" h="47" bottom="356" />
+		<sprite x="1086" right="1164" w="78" y="367" h="64" bottom="431" />
+		<sprite x="1086" right="1164" w="78" y="367" h="64" bottom="431" />
+		<sprite x="1087" right="1163" w="76" y="450" h="60" bottom="510" />
+	</Animation>
+</Animations>

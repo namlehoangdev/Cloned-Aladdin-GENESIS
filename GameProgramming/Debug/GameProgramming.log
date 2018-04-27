@@ -1,0 +1,18 @@
+﻿  Aladdin.cpp
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\gameobject.h(222): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\camera.h(58): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\camera.h(62): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\gameobjectmove.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.h(215): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.h(220): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\directx\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(227): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(231): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(235): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(251): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(256): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(267): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(593): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lêhoàngnam\desktop\[15520509]_[15520617]_[15520604]\underdogproject\gameprogramming\aladdin.cpp(604): warning C4018: '>=': signed/unsigned mismatch
+  GameProgramming.vcxproj -> C:\Users\LÊHOÀNGNAM\Desktop\[15520509]_[15520617]_[15520604]\UnderdogProject\Debug\GameProgramming.exe

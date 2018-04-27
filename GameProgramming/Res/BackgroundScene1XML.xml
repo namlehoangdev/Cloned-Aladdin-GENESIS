@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Cloud1" imagePath="EnhancedScene1Background.png" width="640" height="600">
+    <sprite x="0" y="0" w="660" h="40" oX="0" oY="138" oW="469" oH="640" />
+  </Animation>
+  <Animation name="Cloud2" imagePath="EnhancedScene1Background.png" width="640" height="600">
+    <sprite x="0" y="39" w="660" h="50" oX="0" oY="166" oW="502" oH="640" />
+  </Animation>
+  <Animation name="Cloud3" imagePath="EnhancedScene1Background.png" width="640" height="600">
+    <sprite x="0" y="89" w="660" h="60" oX="0" oY="205" oW="547" oH="640" />
+  </Animation>
+  <Animation name="Cloud4" imagePath="EnhancedScene1Background.png" width="640" height="600">
+    <sprite x="0" y="149" w="660" h="60" oX="0" oY="255" oW="591" oH="640" />
+  </Animation>
+  <Animation name="Mountain" imagePath="EnhancedScene1Background.png" width="640" height="600">
+    <sprite x="0" y="209" w="660" h="270" oX="0" oY="315" oW="720" oH="640" />
+  </Animation>
+</Animations>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{6051D9E2-E443-4B9E-8DA1-6F62E2A16221}</ProjectGuid>
+    <RootNamespace>GameProgramming</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+    <ExecutablePath>$(VC_ExecutablePath_x86);$(WindowsSDK_ExecutablePath);$(VS_ExecutablePath);$(MSBuild_ExecutablePath);$(SystemRoot)\SysWow64;$(FxCopDir);$(PATH);</ExecutablePath>
+    <TargetExt>.exe</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(SolutionDir)UnderDogsProject\directx\Include;$(SolutionDir)directx\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)UnderDogsProject\directx\Lib\x86;$(SolutionDir)directx\Lib\x86;$(LibraryPath);$(NETFXKitsDir)Lib\um\x86;$(WindowsSDK_LibraryPath_x86);$(VC_LibraryPath_x86)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ExecutablePath>$(VC_ExecutablePath_x64);$(WindowsSDK_ExecutablePath);$(VS_ExecutablePath);$(MSBuild_ExecutablePath);$(FxCopDir);$(PATH);</ExecutablePath>
+    <IncludePath>$(SolutionDir)directx\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)direcx\Lib\x64;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)Bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>Build\$(Platform)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(SolutionDir)UnderDogsProject\directx\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)UnderDogsProject\directx\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+    </ClCompile>
+    <Link>
+      <LinkTimeCodeGeneration>Default</LinkTimeCodeGeneration>
+      <GenerateDebugInformation>DebugFastLink</GenerateDebugInformation>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>d3dx9.lib;d3d9.lib;dxguid.lib;dxerr.lib;dinput8.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AABB.cpp" />
+    <ClCompile Include="AbuFacePrefab.cpp" />
+    <ClCompile Include="AbuPrefab.cpp" />
+    <ClCompile Include="Aladdin.cpp" />
+    <ClCompile Include="ApplePrefab.cpp" />
+    <ClCompile Include="BulletPrefab.cpp" />
+    <ClCompile Include="BurningEffectPrefab.cpp" />
+    <ClCompile Include="CamelPrefab.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CeilingPrefab.cpp" />
+    <ClCompile Include="CheckpointJarPrefab.cpp" />
+    <ClCompile Include="DiamondPrefab.cpp" />
+    <ClCompile Include="dxaudio.cpp" />
+    <ClCompile Include="dxgraphics.cpp" />
+    <ClCompile Include="dxinput.cpp" />
+    <ClCompile Include="EnemyFatPrefab.cpp" />
+    <ClCompile Include="EnemyHandPrefab.cpp" />
+    <ClCompile Include="EnemyJarPrefab.cpp" />
+    <ClCompile Include="EnemyJugPrefab.cpp" />
+    <ClCompile Include="EnemyMusPrefab.cpp" />
+    <ClCompile Include="EnemyThinPrefab.cpp" />
+    <ClCompile Include="ExplosionPrefab.cpp" />
+    <ClCompile Include="FireBulletPrefab.cpp" />
+    <ClCompile Include="FireGroundPrefab.cpp" />
+    <ClCompile Include="FloatGroundPrefab.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="GameObjectMove.cpp" />
+    <ClCompile Include="GameTime.cpp" />
+    <ClCompile Include="GenieFacePrefab.cpp" />
+    <ClCompile Include="GenieLampPrefab.cpp" />
+    <ClCompile Include="GroundPrefab.cpp" />
+    <ClCompile Include="HeartPrefab.cpp" />
+    <ClCompile Include="HorizontalBarPrefab.cpp" />
+    <ClCompile Include="JafarPrefab.cpp" />
+    <ClCompile Include="Pot.cpp" />
+    <ClCompile Include="PotPrefab.cpp" />
+    <ClCompile Include="Quadtree.cpp" />
+    <ClCompile Include="RopePrefab.cpp" />
+    <ClCompile Include="Scene1.cpp" />
+    <ClCompile Include="Scene1BackGround.cpp" />
+    <ClCompile Include="Scene2.cpp" />
+    <ClCompile Include="SceneHome.cpp" />
+    <ClCompile Include="ShopperPrefab.cpp" />
+    <ClCompile Include="ShopperTextPrefab.cpp" />
+    <ClCompile Include="SpringBoardPrefab.cpp" />
+    <ClCompile Include="sprite.cpp" />
+    <ClCompile Include="StairsPrefab.cpp" />
+    <ClCompile Include="StarBullet.cpp" />
+    <ClCompile Include="StarBulletPrefab.cpp" />
+    <ClCompile Include="State.cpp" />
+    <ClCompile Include="StateManager.cpp" />
+    <ClCompile Include="trace.cpp" />
+    <ClCompile Include="TriggerPrefab.cpp" />
+    <ClCompile Include="UIScene.cpp" />
+    <ClCompile Include="WallPrefab.cpp" />
+    <ClCompile Include="winmain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AABB.h" />
+    <ClInclude Include="AbuPrefab.h" />
+    <ClInclude Include="Aladdin.h" />
+    <ClInclude Include="ApplePrefab.h" />
+    <ClInclude Include="BulletPrefab.h" />
+    <ClInclude Include="BurningEffectPrefab.h" />
+    <ClInclude Include="CamelPrefab.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CeilingPrefab.h" />
+    <ClInclude Include="CheckpointJarPrefab.h" />
+    <ClInclude Include="dxaudio.h" />
+    <ClInclude Include="dxgraphics.h" />
+    <ClInclude Include="dxinput.h" />
+    <ClInclude Include="EnemyFatPrefab.h" />
+    <ClInclude Include="EnemyHandPrefab.h" />
+    <ClInclude Include="EnemyJarPrefab.h" />
+    <ClInclude Include="EnemyJugPrefab.h" />
+    <ClInclude Include="EnemyMusPrefab.h" />
+    <ClInclude Include="EnemyThinPrefab.h" />
+    <ClInclude Include="ExplosionPrefab.h" />
+    <ClInclude Include="FireBulletPrefab.h" />
+    <ClInclude Include="FireGroundPrefab.h" />
+    <ClInclude Include="FloatGroundPrefab.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="GameObjectMove.h" />
+    <ClInclude Include="GameTime.h" />
+    <ClInclude Include="GenieLampPrefab.h" />
+    <ClInclude Include="GroundPrefab.h" />
+    <ClInclude Include="HorizontalBarPrefab.h" />
+    <ClInclude Include="JafarPrefab.h" />
+    <ClInclude Include="Pot.h" />
+    <ClInclude Include="PotPrefab.h" />
+    <ClInclude Include="Quadtree.h" />
+    <ClInclude Include="RopePrefab.h" />
+    <ClInclude Include="Scene1.h" />
+    <ClInclude Include="Scene1BackGround.h" />
+    <ClInclude Include="Scene2.h" />
+    <ClInclude Include="SceneHome.h" />
+    <ClInclude Include="ShopperPrefab.h" />
+    <ClInclude Include="ShopperTextPrefab.h" />
+    <ClInclude Include="SpringBoardPrefab.h" />
+    <ClInclude Include="sprite.h" />
+    <ClInclude Include="StairsPrefab.h" />
+    <ClInclude Include="StarBullet.h" />
+    <ClInclude Include="StarBulletPrefab.h" />
+    <ClInclude Include="State.h" />
+    <ClInclude Include="StateManager.h" />
+    <ClInclude Include="trace.h" />
+    <ClInclude Include="TriggerPrefab.h" />
+    <ClInclude Include="UIScene.h" />
+    <ClInclude Include="WallPrefab.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="..\packages\pugixml.1.8.5\build\native\pugixml.targets" Condition="Exists('..\packages\pugixml.1.8.5\build\native\pugixml.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\pugixml.1.8.5\build\native\pugixml.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\pugixml.1.8.5\build\native\pugixml.targets'))" />
+  </Target>
+</Project>

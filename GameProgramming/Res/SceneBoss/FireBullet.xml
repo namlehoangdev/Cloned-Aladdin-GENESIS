@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations> 
+  <Animation name="Move" imagePath="Jafar.png" width="640" height="672" />
+   <sprite x="8" y="286" w="74" h="49" oX="8" oY="286" oW="402" oH="645" />
+    <sprite x="96" y="288" w="79" h="47" oX="96" oY="288" oW="402" oH="645" />
+    <sprite x="189" y="305" w="94" h="30" oX="189" oY="305" oW="402" oH="645" />
+    <sprite x="296" y="308" w="90" h="27" oX="296" oY="308" oW="402" oH="645" />
+    <sprite x="400" y="307" w="77" h="28" oX="400" oY="307" oW="402" oH="645" />
+    <sprite x="488" y="305" w="73" h="30" oX="488" oY="305" oW="402" oH="645" />
+    <sprite x="572" y="293" w="60" h="42" oX="572" oY="293" oW="402" oH="645" />
+    <sprite x="8" y="349" w="64" h="50" oX="8" oY="349" oW="402" oH="645" />
+	</Animation>
+</Animations>

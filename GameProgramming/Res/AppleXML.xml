@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+ <Animation name="Idle" imagePath="Items.png" width="1030" height="596">
+    <sprite x="341" y="17" w="11" h="11" oX="341" oY="17" oW="-313" oH="11" />
+  </Animation>
+   <Animation name="Explore" imagePath="Items.png" width="1030" height="596" delay="3">
+    <sprite x="703" y="12" w="4" h="7" oX="703" oY="12" oW="-876" oH="199" />
+    <sprite x="721" y="11" w="5" h="8" oX="721" oY="11" oW="-876" oH="199" />
+    <sprite x="739" y="9" w="16" h="15" oX="739" oY="9" oW="-876" oH="199" />
+    <sprite x="769" y="8" w="20" h="19" oX="769" oY="8" oW="-876" oH="199" />
+    <sprite x="816" y="13" w="20" h="14" oX="816" oY="13" oW="-876" oH="199" />
+    <sprite x="857" y="11" w="19" h="15" oX="857" oY="11" oW="-876" oH="199" />
+    <sprite x="905" y="14" w="19" h="11" oX="905" oY="14" oW="-876" oH="199" />
+  </Animation>
+</Animations>

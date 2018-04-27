@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="HumanIdle" imagePath="BossSprite.png" width="221" height="915">
+    <sprite x="0" y="0" w="64" h="70" oX="0" oY="0" oW="67" oH="64" />
+  </Animation>
+  <Animation name="HumanAttack" imagePath="BossSprite.png" width="221" height="915" delay="4">
+    <sprite x="0" y="0" w="64" h="70" oX="0" oY="0" oW="709" oH="102" />
+    <sprite x="0" y="86" w="57" h="69" oX="0" oY="86" oW="709" oH="102" />
+    <sprite x="0" y="169" w="55" h="68" oX="0" oY="169" oW="709" oH="102" />
+    <sprite x="0" y="273" w="51" h="67" oX="0" oY="273" oW="709" oH="102" />
+    <sprite x="0" y="368" w="64" h="68" oX="0" oY="368" oW="709" oH="102" />
+    <sprite x="0" y="457" w="82" h="68" oX="0" oY="457" oW="709" oH="102" />
+    <sprite x="0" y="555" w="85" h="68" oX="0" oY="555" oW="709" oH="102" />
+    <sprite x="0" y="641" w="68" h="68" oX="0" oY="641" oW="709" oH="102" />
+  </Animation>
+  <Animation name="AnacondaIdle" imagePath="BossSprite.png" width="221" height="915">
+    <sprite x="123" y="644" w="63" h="83" oX="123" oY="644" oW="594" oH="63" />
+  </Animation>
+  <Animation name="AnacondaAttack" imagePath="BossSprite.png" width="221" height="915" delay="8">
+    <sprite x="149" y="13" w="70" h="57" oX="149" oY="13" oW="783" oH="104" />
+    <sprite x="136" y="86" w="64" h="63" oX="136" oY="86" oW="783" oH="104" />
+    <sprite x="123" y="169" w="67" h="71" oX="123" oY="169" oW="783" oH="104" />
+    <sprite x="117" y="249" w="71" h="71" oX="117" oY="249" oW="783" oH="104" />
+    <sprite x="118" y="337" w="68" h="83" oX="118" oY="337" oW="783" oH="104" />
+    <sprite x="118" y="454" w="68" h="82" oX="118" oY="454" oW="783" oH="104" />
+    <sprite x="117" y="549" w="69" h="81" oX="117" oY="549" oW="783" oH="104" />
+    <sprite x="123" y="644" w="63" h="83" oX="123" oY="644" oW="783" oH="104" />
+    <sprite x="139" y="742" w="64" h="81" oX="139" oY="742" oW="783" oH="104" />
+    <sprite x="150" y="854" w="71" h="60" oX="150" oY="854" oW="783" oH="104" />
+  </Animation>
+</Animations>

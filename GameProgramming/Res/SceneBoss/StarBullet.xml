@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Fly" imagePath="Jafar.png" width="640" height="672" delay="2">
+    <sprite x="416" y="258" w="27" h="13" oX="416" oY="258" oW="-213" oH="103" />
+    <sprite x="456" y="256" w="23" h="15" oX="456" oY="256" oW="-213" oH="103" />
+    <sprite x="490" y="257" w="23" h="14" oX="490" oY="257" oW="-213" oH="103" />
+  </Animation>
+  <Animation name="Pop" imagePath="Jafar.png" width="640" height="672">
+    <sprite x="528" y="259" w="13" h="12" oX="528" oY="259" oW="-321" oH="92" />
+    <sprite x="552" y="258" w="34" h="13" oX="552" oY="258" oW="-321" oH="92" />
+    <sprite x="600" y="251" w="14" h="19" oX="600" oY="251" oW="-321" oH="92" />
+  </Animation>
+</Animations>

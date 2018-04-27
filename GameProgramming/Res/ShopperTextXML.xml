@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="FindMore" imagePath="ShopperText.png" width="220" height="51" delay="7" >
+    <sprite x="12" y="9" w="201" h="13" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="12" y="9" w="201" h="13" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="12" y="9" w="201" h="13" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="12" y="9" w="201" h="13" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="0" y="1" w="201" h="1" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="0" y="1" w="201" h="1" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="0" y="1" w="201" h="1" oX="12" oY="9" oW="104" oH="201" />  
+  </Animation>
+  
+  <Animation name="FindMoreDisappear" imagePath="ShopperText.png" width="220" height="51"  >
+    <sprite x="12" y="9" w="201" h="13" oX="12" oY="9" oW="104" oH="201" /> 
+  </Animation>
+  
+  <Animation name="MakeDeal" imagePath="ShopperText.png" width="220" height="51" delay="7">
+    <sprite x="13" y="31" w="174" h="11" oX="13" oY="31" oW="111" oH="174" />
+	<sprite x="13" y="31" w="174" h="11" oX="13" oY="31" oW="111" oH="174" />
+	<sprite x="13" y="31" w="174" h="11" oX="13" oY="31" oW="111" oH="174" />
+	<sprite x="13" y="31" w="174" h="11" oX="13" oY="31" oW="111" oH="174" />
+	<sprite x="0" y="1" w="201" h="1" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="0" y="1" w="201" h="1" oX="12" oY="9" oW="104" oH="201" />
+	<sprite x="0" y="1" w="201" h="1" oX="12" oY="9" oW="104" oH="201" />
+  </Animation>
+  
+   <Animation name="MakeDealDisappear" imagePath="ShopperText.png" width="220" height="51" >
+    <sprite x="13" y="31" w="174" h="11" oX="13" oY="31" oW="111" oH="174" /> 
+  </Animation>
+  
+</Animations>

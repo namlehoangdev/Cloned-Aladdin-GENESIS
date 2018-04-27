@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Empty" imagePath="enemy_explosion.png" width="1780" height="115">
+    <sprite x="0" y="0" w="162" h="35" oX="0" oY="0" oW="99" oH="162" />
+<sprite x="0" y="0" w="162" h="35" oX="0" oY="0" oW="99" oH="162" 	/>
+  </Animation>
+  <Animation name="Exploding" imagePath="enemy_explosion.png" width="1780" height="115">
+    <sprite x="77" y="75" w="30" h="25" oX="77" oY="75" oW="-1308" oH="1461" />
+    <sprite x="196" y="15" w="146" h="93" oX="196" oY="15" oW="-1308" oH="1461" />
+    <sprite x="372" y="13" w="155" h="97" oX="372" oY="13" oW="-1308" oH="1461" />
+    <sprite x="540" y="9" w="163" h="101" oX="540" oY="9" oW="-1308" oH="1461" />
+    <sprite x="716" y="7" w="171" h="103" oX="716" oY="7" oW="-1308" oH="1461" />
+    <sprite x="891" y="2" w="175" h="108" oX="891" oY="2" oW="-1308" oH="1461" />
+    <sprite x="1112" y="40" w="84" h="73" oX="1112" oY="40" oW="-1308" oH="1461" />
+    <sprite x="1294" y="42" w="79" h="71" oX="1294" oY="42" oW="-1308" oH="1461" />
+    <sprite x="1476" y="46" w="77" h="67" oX="1476" oY="46" oW="-1308" oH="1461" />
+    <sprite x="1476" y="46" w="77" h="67" oX="1476" oY="46" oW="-1308" oH="1461" />
+  </Animation>
+</Animations>

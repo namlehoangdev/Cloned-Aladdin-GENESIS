@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Idle" imagePath="knifePointer.png" width="83" height="144" delay="3">
+    <sprite x="5" y="5" w="77" h="20" oX="10" oY="5" oW="150" oH="76" />
+    <sprite x="5" y="31" w="77" h="20" oX="13" oY="31" oW="150" oH="76" />
+    <sprite x="5" y="57" w="77" h="20" oX="16" oY="57" oW="150" oH="76" />
+    <sprite x="5" y="31" w="77" h="20" oX="13" oY="31" oW="150" oH="76" />
+    <sprite x="5" y="5" w="77" h="20" oX="10" oY="5" oW="150" oH="76" />
+    <sprite x="5" y="89" w="77" h="20" oX="7" oY="89" oW="150" oH="76" />
+    <sprite x="5" y="118" w="77" h="20" oX="4" oY="118" oW="150" oH="76" />
+    <sprite x="5" y="89" w="77" h="20" oX="7" oY="89" oW="150" oH="76" />
+  </Animation>
+</Animations>

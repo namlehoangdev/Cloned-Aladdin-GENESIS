@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="1231" tileheight="653" nextobjectid="14">
+ <tileset firstgid="1" source="BossScene/untitled.tsx"/>
+ <layer name="Tile Layer 1" width="1" height="1">
+  <data encoding="base64">
+   AQAAAA==
+  </data>
+ </layer>
+ <objectgroup name="Wall" id="2">
+  <object id="1" x="203.5" y="28.5" width="36" height="538"/>
+  <object id="2" x="1037" y="28" width="36" height="538"/>
+  <object id="10" x="240" y="26.6667" width="797.333" height="46.6667"/>
+ </objectgroup>
+ <objectgroup name="Jafar" id="101" >
+  <object id="13" x="608" y="325" width="60" height="83"/>
+ </objectgroup>
+ <objectgroup name="Ground" id="1">
+  <object id="4" x="240.333" y="438" width="795.667" height="127.333"/>
+  <object id="5" x="1231" y="653"/>
+ </objectgroup>
+<objectgroup name="Apple" id="0">
+  <object id="4" x="752" y="341" width="11" height="12"/>
+  <object id="8" x="764" y="326.5" width="11" height="12"/>
+  <object id="9" x="739" y="326.5" width="11" height="12"/>
+  <object id="10" x="751.5" y="313" width="11" height="12"/>
+  <object id="12"  x="512" y="326.5" width="11" height="12"/>
+  <object id="13" x="500" y="341" width="11" height="12"/>
+  <object id="14" x="500" y="313" width="11" height="12"/>
+  <object id="15"  x="488" y="326.5" width="11" height="12"/>
+ </objectgroup>
+ <objectgroup name="FireGround" id="3">
+  <object id="17" x="250" y="416.5" width="110" height="54"/>
+  <object id="18" x="474" y="416.5" width="110" height="54"/>
+  <object id="19" x="917.333" y="416.5" width="110" height="54"/>
+  <object id="20" x="695.333" y="416.5" width="110" height="54"/>
+ </objectgroup>
+</map>

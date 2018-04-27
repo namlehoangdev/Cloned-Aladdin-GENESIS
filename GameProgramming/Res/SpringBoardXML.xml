@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	<Animation width="430" height="43" name="JumpedOn" imagePath="SpringBoard.png" delay="0">
+		<sprite x="41" right="80" w="39" y="0" h="32" bottom="32" />
+		<sprite x="84" right="118" w="34" y="3" h="26" bottom="29" />
+		<sprite x="128" right="167" w="39" y="0" h="32" bottom="32" />
+		<sprite x="171" right="205" w="34" y="3" h="26" bottom="29" />
+		<sprite x="215" right="256" w="41" y="0" h="32" bottom="32" />
+		<sprite x="258" right="298" w="40" y="4" h="24" bottom="28" />
+		<sprite x="302" right="343" w="41" y="6" h="20" bottom="26" />
+		<sprite x="345" right="384" w="39" y="5" h="22" bottom="27" />
+		<sprite x="389" right="429" w="40" y="6" h="20" bottom="26" />
+		<sprite x="0" right="39" w="39" y="7" h="18" bottom="25" />
+	</Animation>
+	<Animation width="430" height="43" name="Still" imagePath="SpringBoard.png" delay="0">
+		<sprite x="0" right="39" w="39" y="7" h="18" bottom="25" />
+	</Animation>
+</Animations>

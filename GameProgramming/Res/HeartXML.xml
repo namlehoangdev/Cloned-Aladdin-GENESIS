@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Idle" imagePath="items.png" width="664" height="471"  delay="3">
+	<sprite x="343" y="171" w="19" h="23" oX="343" oY="171" oW="-292" oH="163" />
+    <sprite x="366" y="173" w="17" h="22" oX="366" oY="173" oW="-292" oH="163" />
+    <sprite x="387" y="175" w="16" h="20" oX="387" oY="175" oW="-292" oH="163" />
+    <sprite x="406" y="175" w="17" h="20" oX="406" oY="175" oW="-292" oH="163" />
+    <sprite x="426" y="173" w="19" h="22" oX="426" oY="173" oW="-292" oH="163" />
+    <sprite x="448" y="174" w="17" h="22" oX="448" oY="174" oW="-292" oH="163" />
+    <sprite x="467" y="176" w="16" h="20" oX="467" oY="176" oW="-292" oH="163" />
+    <sprite x="486" y="176" w="17" h="20" oX="486" oY="176" oW="-292" oH="163" />
+  </Animation>
+   <Animation name="Explore" imagePath="Items.png" width="1030" height="596">
+    <sprite x="703" y="12" w="4" h="7" oX="703" oY="12" oW="-876" oH="199" />
+    <sprite x="721" y="11" w="5" h="8" oX="721" oY="11" oW="-876" oH="199" />
+    <sprite x="739" y="9" w="16" h="15" oX="739" oY="9" oW="-876" oH="199" />
+    <sprite x="769" y="8" w="20" h="19" oX="769" oY="8" oW="-876" oH="199" />
+    <sprite x="816" y="13" w="20" h="14" oX="816" oY="13" oW="-876" oH="199" />
+    <sprite x="857" y="11" w="19" h="15" oX="857" oY="11" oW="-876" oH="199" />
+    <sprite x="905" y="14" w="19" h="11" oX="905" oY="14" oW="-876" oH="199" />
+  </Animation>
+</Animations>

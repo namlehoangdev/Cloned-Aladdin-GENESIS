@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="EnemyHand" imagePath="Enemy2.png" width="391" height="609" delay="3">
+    <sprite x="6" y="9" w="11" h="21" oX="6" oY="9" oW="-359" oH="383" />
+    <sprite x="37" y="6" w="17" h="24" oX="37" oY="6" oW="-359" oH="383" />
+    <sprite x="68" y="3" w="23" h="31" oX="68" oY="3" oW="-359" oH="383" />
+    <sprite x="102" y="3" w="29" h="30" oX="102" oY="3" oW="-359" oH="383" />
+    <sprite x="140" y="0" w="41" h="35" oX="140" oY="0" oW="-359" oH="383" />
+    <sprite x="189" y="0" w="41" h="40" oX="189" oY="0" oW="-359" oH="383" />
+    <sprite x="246" y="1" w="43" h="40" oX="246" oY="1" oW="-359" oH="383" />
+    <sprite x="301" y="5" w="25" h="21" oX="301" oY="5" oW="-359" oH="383" />
+    <sprite x="340" y="10" w="18" h="12" oX="340" oY="10" oW="-359" oH="383" />
+    <sprite x="377" y="11" w="8" h="5" oX="377" oY="11" oW="-359" oH="383" />
+  </Animation>
+  <Animation name="None" imagePath="Enemy2.png" width="391" height="609" delay="3">
+    <sprite x="346" y="337" w="45" h="71" oX="346" oY="337" oW="49" oH="45" />
+  </Animation>
+  <Animation name="EnemyHandSlash" imagePath="Enemy2.png" width="391" height="609" delay="3">
+    <sprite x="6" y="9" w="11" h="21" oX="6" oY="9" oW="-315" oH="341" />
+    <sprite x="37" y="6" w="17" h="24" oX="37" oY="6" oW="-315" oH="341" />
+    <sprite x="68" y="3" w="23" h="31" oX="68" oY="3" oW="-315" oH="341" />
+    <sprite x="102" y="3" w="29" h="30" oX="102" oY="3" oW="-315" oH="341" />
+    <sprite x="140" y="0" w="41" h="35" oX="140" oY="0" oW="-315" oH="341" />
+    <sprite x="189" y="0" w="41" h="40" oX="189" oY="0" oW="-315" oH="341" />
+    <sprite x="246" y="1" w="43" h="40" oX="246" oY="1" oW="-315" oH="341" />
+    <sprite x="301" y="5" w="25" h="21" oX="301" oY="5" oW="-315" oH="341" />
+    <sprite x="340" y="10" w="18" h="12" oX="340" oY="10" oW="-315" oH="341" />
+  </Animation>
+  <Animations>

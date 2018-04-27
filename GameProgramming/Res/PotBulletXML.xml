@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="PotFall" imagePath="Bullet.png" width="144" height="500" delay="4">
+    <sprite x="2" y="110" w="28" h="20" oX="2" oY="110" oW="173" oH="141" />
+    <sprite x="43" y="108" w="24" h="23" oX="43" oY="108" oW="173" oH="141" />
+    <sprite x="77" y="108" w="26" h="21" oX="77" oY="108" oW="173" oH="141" />
+    <sprite x="114" y="111" w="26" h="15" oX="114" oY="111" oW="173" oH="141" />
+    <sprite x="42" y="151" w="24" h="23" oX="42" oY="151" oW="173" oH="141" />
+    <sprite x="82" y="153" w="21" h="24" oX="82" oY="153" oW="173" oH="141" />
+  </Animation>
+  <Animation name="PotBroken" imagePath="Bullet.png" width="144" height="500" delay="4">
+    <sprite x="10" y="193" w="37" h="14" oX="10" oY="193" oW="458" oH="184" />
+    <sprite x="65" y="187" w="79" h="31" oX="65" oY="187" oW="458" oH="184" />
+    <sprite x="38" y="226" w="98" h="30" oX="38" oY="226" oW="458" oH="184" />
+    <sprite x="0" y="268" w="90" h="33" oX="0" oY="268" oW="458" oH="184" />
+    <sprite x="0" y="309" w="100" h="35" oX="0" oY="309" oW="458" oH="184" />
+    <sprite x="23" y="353" w="121" h="37" oX="23" oY="353" oW="458" oH="184" />
+    <sprite x="0" y="396" w="105" h="44" oX="0" oY="396" oW="458" oH="184" />
+    <sprite x="32" y="455" w="107" h="39" oX="32" oY="455" oW="458" oH="184" />
+  </Animation>
+</Animations>

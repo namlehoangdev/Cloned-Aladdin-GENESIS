@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="CamelIdle" imagePath="Camel.png" width="280" height="127" delay="4">
+    <sprite x="0" y="9" w="63" h="43" oX="0" oY="9" oW="62" oH="63" />
+  </Animation>
+  <Animation name="CamelBeaten" imagePath="Camel.png" width="280" height="127" delay="4">
+    <sprite x="0" y="9" w="63" h="43" oX="0" oY="9" oW="162" oH="323" />
+    <sprite x="73" y="0" w="81" h="53" oX="73" oY="0" oW="162" oH="323" />
+    <sprite x="177" y="0" w="95" h="55" oX="177" oY="0" oW="162" oH="323" />
+    <sprite x="2" y="77" w="130" h="36" oX="2" oY="77" oW="162" oH="323" />
+    <sprite x="170" y="79" w="110" h="32" oX="170" oY="79" oW="162" oH="323" />
+    <sprite x="177" y="0" w="95" h="55" oX="177" oY="0" oW="162" oH="323" />
+    <sprite x="73" y="0" w="81" h="53" oX="73" oY="0" oW="162" oH="323" />
+<sprite x="0" y="9" w="63" h="43" oX="0" oY="9" oW="62" oH="63" />
+  </Animation>
+  <Animation name="CamelBullet" imagePath="Camel.png" width="280" height="127">
+    <sprite x="148" y="85" w="12" h="8" oX="148" oY="85" oW="-53" oH="12" /> 
+  </Animation>
+</Animations>

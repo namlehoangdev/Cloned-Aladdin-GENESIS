@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Exploding" imagePath="enemy_explosion.png" width="1780" height="115" delay="4">
+    <sprite x="77" y="75" w="30" h="25" oX="77" oY="75" oW="-1121" oH="1278" />
+    <sprite x="196" y="15" w="146" h="93" oX="196" oY="15" oW="-1121" oH="1278" />
+    <sprite x="372" y="13" w="155" h="97" oX="372" oY="13" oW="-1121" oH="1278" />
+    <sprite x="542" y="9" w="161" h="101" oX="542" oY="9" oW="-1121" oH="1278" />
+    <sprite x="717" y="3" w="179" h="107" oX="717" oY="3" oW="-1121" oH="1278" />
+    <sprite x="903" y="3" w="163" h="107" oX="903" oY="3" oW="-1121" oH="1278" />
+    <sprite x="1112" y="40" w="84" h="73" oX="1112" oY="40" oW="-1121" oH="1278" />
+    <sprite x="1294" y="42" w="79" h="71" oX="1294" oY="42" oW="-1121" oH="1278" />
+  </Animation>
+</Animations>

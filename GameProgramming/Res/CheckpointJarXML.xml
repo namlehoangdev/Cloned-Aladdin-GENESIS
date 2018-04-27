@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Idle" imagePath="items.png" width="664" height="471">
+    <sprite x="19" y="424" w="19" h="32" oX="19" oY="424" oW="430" oH="19" />
+  </Animation>
+  <Animation name="Eaten" imagePath="items.png" width="664" height="471"  delay="2">
+    <sprite x="49" y="428" w="23" h="28" oX="49" oY="428" oW="418" oH="276" />
+    <sprite x="78" y="437" w="34" h="19" oX="78" oY="437" oW="418" oH="276" />
+    <sprite x="119" y="425" w="19" h="33" oX="119" oY="425" oW="418" oH="276" />
+    <sprite x="145" y="425" w="22" h="33" oX="145" oY="425" oW="418" oH="276" />
+    <sprite x="174" y="426" w="25" h="32" oX="174" oY="426" oW="418" oH="276" />
+    <sprite x="207" y="426" w="23" h="33" oX="207" oY="426" oW="418" oH="276" />
+    <sprite x="239" y="427" w="20" h="33" oX="239" oY="427" oW="418" oH="276" />
+    <sprite x="270" y="428" w="23" h="32" oX="270" oY="428" oW="418" oH="276" />
+    <sprite x="302" y="429" w="22" h="32" oX="302" oY="429" oW="418" oH="276" />
+  </Animation>
+</Animations>

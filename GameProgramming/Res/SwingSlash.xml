@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="SwingSlash" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="1004" y="1719" w="52" h="89" oX="1004" oY="1719" oW="1135" oH="83" />
+    <sprite x="1002" y="1840" w="55" h="88" oX="1002" oY="1840" oW="1135" oH="83" />
+    <sprite x="1002" y="1957" w="71" h="88" oX="1002" oY="1957" oW="1135" oH="83" />
+    <sprite x="1002" y="2067" w="47" h="86" oX="1002" oY="2067" oW="1135" oH="83" />
+  </Animation>
+</Animations>

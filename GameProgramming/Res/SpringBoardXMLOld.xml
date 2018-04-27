@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="JumpedOn" imagePath="SpringBoard.png" width="430" height="30" delay="3">
+    <sprite x="41" y="15" w="38" h="14" oX="41" oY="15" oW="-341" oH="384" />
+    <sprite x="84" y="0" w="35" h="22" oX="84" oY="0" oW="-341" oH="384" />
+    <sprite x="127" y="15" w="39" h="14" oX="127" oY="15" oW="-341" oH="384" />
+    <sprite x="171" y="0" w="35" h="22" oX="171" oY="0" oW="-341" oH="384" />
+    <sprite x="214" y="15" w="41" h="14" oX="214" oY="15" oW="-341" oH="384" />
+    <sprite x="258" y="1" w="41" h="21" oX="258" oY="1" oW="-341" oH="384" />
+    <sprite x="304" y="9" w="42" h="14" oX="304" oY="9" oW="-341" oH="384" />
+    <sprite x="346" y="2" w="35" h="20" oX="346" oY="2" oW="-341" oH="384" />
+    <sprite x="388" y="3" w="41" h="19" oX="388" oY="3" oW="-341" oH="384" />
+  </Animation>
+  <Animation name="Still" imagePath="SpringBoard.png" width="430" height="30">
+    <sprite x="0" y="5" w="39" h="17" oX="0" oY="5" oW="33" oH="39" />
+  </Animation>
+</Animations>

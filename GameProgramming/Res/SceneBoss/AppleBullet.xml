@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="flying" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="373" y="24" w="7" h="6" oX="373" oY="24" oW="-343" oH="7" />
+  </Animation>
+  <Animation name="popping" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="394" y="23" w="7" h="9" oX="394" oY="23" oW="-469" oH="132" />
+    <sprite x="414" y="18" w="19" h="17" oX="414" oY="18" oW="-469" oH="132" />
+    <sprite x="444" y="16" w="29" h="21" oX="444" oY="16" oW="-469" oH="132" />
+    <sprite x="484" y="14" w="32" h="26" oX="484" oY="14" oW="-469" oH="132" />
+    <sprite x="531" y="12" w="31" h="28" oX="531" oY="12" oW="-469" oH="132" />
+  </Animation>
+    <Animation name="popingJarfar" imagePath="Aladdin.png" width="622" height="1509">
+    <sprite x="424" y="817" w="17" h="16" oX="424" oY="817" oW="557" oH="377" />
+    <sprite x="446" y="809" w="25" h="24" oX="446" oY="809" oW="557" oH="377" />
+    <sprite x="477" y="812" w="22" h="21" oX="477" oY="812" oW="557" oH="377" />
+    <sprite x="504" y="809" w="24" h="24" oX="504" oY="809" oW="557" oH="377" />
+    <sprite x="535" y="809" w="23" h="24" oX="535" oY="809" oW="557" oH="377" />
+    <sprite x="275" y="863" w="23" h="23" oX="275" oY="863" oW="557" oH="377" />
+    <sprite x="306" y="863" w="23" h="22" oX="306" oY="863" oW="557" oH="377" />
+    <sprite x="337" y="864" w="24" h="22" oX="337" oY="864" oW="557" oH="377" />
+    <sprite x="368" y="868" w="23" h="17" oX="368" oY="868" oW="557" oH="377" />
+    <sprite x="399" y="867" w="24" h="18" oX="399" oY="867" oW="557" oH="377" />
+    <sprite x="430" y="864" w="21" h="21" oX="430" oY="864" oW="557" oH="377" />
+    <sprite x="461" y="868" w="23" h="14" oX="461" oY="868" oW="557" oH="377" />
+    <sprite x="563" y="872" w="27" h="13" oX="563" oY="872" oW="557" oH="377" />
+    <sprite x="275" y="926" w="14" h="13" oX="275" oY="926" oW="557" oH="377" />
+    <sprite x="297" y="912" w="33" h="27" oX="297" oY="912" oW="557" oH="377" />
+    <sprite x="337" y="892" w="46" h="47" oX="337" oY="892" oW="557" oH="377" />
+    <sprite x="386" y="894" w="46" h="45" oX="386" oY="894" oW="557" oH="377" />
+    <sprite x="439" y="895" w="46" h="44" oX="439" oY="895" oW="557" oH="377" />
+    <sprite x="492" y="897" w="47" h="42" oX="492" oY="897" oW="557" oH="377" />
+    <sprite x="545" y="899" w="47" h="40" oX="545" oY="899" oW="557" oH="377" />
+    <sprite x="275" y="945" w="45" h="38" oX="275" oY="945" oW="557" oH="377" />
+    <sprite x="323" y="948" w="47" h="34" oX="323" oY="948" oW="557" oH="377" />
+    <sprite x="377" y="949" w="46" h="32" oX="377" oY="949" oW="557" oH="377" />
+    <sprite x="431" y="954" w="44" h="25" oX="431" oY="954" oW="557" oH="377" />
+    <sprite x="479" y="957" w="42" h="24" oX="479" oY="957" oW="557" oH="377" />
+    <sprite x="532" y="961" w="25" h="21" oX="532" oY="961" oW="557" oH="377" />
+    <sprite x="564" y="961" w="19" h="21" oX="564" oY="961" oW="557" oH="377" />
+    <sprite x="596" y="965" w="23" h="17" oX="596" oY="965" oW="557" oH="377" />
+  </Animation>
+</Animations>

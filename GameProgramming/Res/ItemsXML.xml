@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="GenieLamp" imagePath="items.png" width="664" height="471">
+    <sprite x="369" y="15" w="32" h="15" oX="369" oY="15" oW="-330" oH="32" />
+  </Animation>
+  <Animation name="GenieFace" imagePath="items.png" width="664" height="471">
+    <sprite x="335" y="45" w="38" h="49" oX="335" oY="45" oW="-404" oH="197" />
+    <sprite x="389" y="45" w="42" h="51" oX="389" oY="45" oW="-404" oH="197" />
+    <sprite x="443" y="49" w="44" h="43" oX="443" oY="49" oW="-404" oH="197" />
+    <sprite x="497" y="48" w="44" h="43" oX="497" oY="48" oW="-404" oH="197" />
+  </Animation>
+  <Animation name="Diamond" imagePath="items.png" width="664" height="471">
+    <sprite x="340" y="111" w="17" h="15" oX="340" oY="111" oW="-417" oH="222" />
+    <sprite x="363" y="111" w="17" h="15" oX="363" oY="111" oW="-417" oH="222" />
+    <sprite x="386" y="111" w="17" h="15" oX="386" oY="111" oW="-417" oH="222" />
+    <sprite x="409" y="111" w="17" h="15" oX="409" oY="111" oW="-417" oH="222" />
+    <sprite x="432" y="110" w="17" h="16" oX="432" oY="110" oW="-417" oH="222" />
+    <sprite x="454" y="107" w="32" h="20" oX="454" oY="107" oW="-417" oH="222" />
+    <sprite x="492" y="110" w="22" h="17" oX="492" oY="110" oW="-417" oH="222" />
+    <sprite x="522" y="112" w="17" h="15" oX="522" oY="112" oW="-417" oH="222" />
+    <sprite x="545" y="112" w="17" h="15" oX="545" oY="112" oW="-417" oH="222" />
+  </Animation>
+  <Animation name="AladdinFace" imagePath="items.png" width="664" height="471">
+    <sprite x="340" y="140" w="22" h="23" oX="340" oY="140" oW="-202" oH="48" />
+    <sprite x="367" y="141" w="24" h="23" oX="367" oY="141" oW="-202" oH="48" />
+  </Animation>
+  <Animation name="Heart" imagePath="items.png" width="664" height="471">
+    <sprite x="343" y="171" w="19" h="23" oX="343" oY="171" oW="-292" oH="163" />
+    <sprite x="366" y="173" w="17" h="22" oX="366" oY="173" oW="-292" oH="163" />
+    <sprite x="387" y="175" w="16" h="20" oX="387" oY="175" oW="-292" oH="163" />
+    <sprite x="406" y="175" w="17" h="20" oX="406" oY="175" oW="-292" oH="163" />
+    <sprite x="426" y="173" w="19" h="22" oX="426" oY="173" oW="-292" oH="163" />
+    <sprite x="448" y="174" w="17" h="22" oX="448" oY="174" oW="-292" oH="163" />
+    <sprite x="467" y="176" w="16" h="20" oX="467" oY="176" oW="-292" oH="163" />
+    <sprite x="486" y="176" w="17" h="20" oX="486" oY="176" oW="-292" oH="163" />
+  </Animation>
+  <Animation name="AbuFace" imagePath="items.png" width="664" height="471">
+    <sprite x="345" y="213" w="19" h="18" oX="345" oY="213" oW="-364" oH="270" />
+    <sprite x="368" y="213" w="19" h="18" oX="368" oY="213" oW="-364" oH="270" />
+    <sprite x="391" y="211" w="19" h="20" oX="391" oY="211" oW="-364" oH="270" />
+    <sprite x="415" y="209" w="19" h="22" oX="415" oY="209" oW="-364" oH="270" />
+    <sprite x="440" y="209" w="19" h="22" oX="440" oY="209" oW="-364" oH="270" />
+    <sprite x="462" y="206" w="32" h="25" oX="462" oY="206" oW="-364" oH="270" />
+    <sprite x="499" y="207" w="32" h="25" oX="499" oY="207" oW="-364" oH="270" />
+    <sprite x="542" y="209" w="21" h="23" oX="542" oY="209" oW="-364" oH="270" />
+    <sprite x="570" y="209" w="21" h="23" oX="570" oY="209" oW="-364" oH="270" />
+    <sprite x="596" y="213" w="19" h="19" oX="596" oY="213" oW="-364" oH="270" />
+  </Animation>
+</Animations>

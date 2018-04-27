@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="9" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="24" w="120" h="31" oX="15" oY="24" oW="85" oH="510" />
+    <sprite x="145" y="24" w="120" h="31" oX="145" oY="24" oW="85" oH="510" />
+    <sprite x="275" y="24" w="119" h="31" oX="275" oY="24" oW="85" oH="510" />
+    <sprite x="404" y="24" w="119" h="31" oX="404" oY="24" oW="85" oH="510" />
+  </Animation>
+  <Animation name="8" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="71" w="112" h="31" oX="15" oY="71" oW="128" oH="478" />
+    <sprite x="137" y="71" w="112" h="31" oX="137" oY="71" oW="128" oH="478" />
+    <sprite x="259" y="71" w="111" h="31" oX="259" oY="71" oW="128" oH="478" />
+    <sprite x="380" y="71" w="111" h="31" oX="380" oY="71" oW="128" oH="478" />
+  </Animation>
+  <Animation name="7" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="118" w="104" h="31" oX="15" oY="118" oW="171" oH="446" />
+    <sprite x="129" y="118" w="104" h="31" oX="129" oY="118" oW="171" oH="446" />
+    <sprite x="243" y="118" w="103" h="31" oX="243" oY="118" oW="171" oH="446" />
+    <sprite x="356" y="118" w="103" h="31" oX="356" oY="118" oW="171" oH="446" />
+  </Animation>
+  <Animation name="6" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="165" w="96" h="31" oX="15" oY="165" oW="214" oH="414" />
+    <sprite x="121" y="165" w="96" h="31" oX="121" oY="165" oW="214" oH="414" />
+    <sprite x="227" y="165" w="95" h="31" oX="227" oY="165" oW="214" oH="414" />
+    <sprite x="332" y="165" w="95" h="31" oX="332" oY="165" oW="214" oH="414" />
+  </Animation>
+  <Animation name="5" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="212" w="88" h="31" oX="15" oY="212" oW="257" oH="383" />
+    <sprite x="114" y="212" w="88" h="31" oX="114" oY="212" oW="257" oH="383" />
+    <sprite x="212" y="212" w="87" h="31" oX="212" oY="212" oW="257" oH="383" />
+    <sprite x="309" y="212" w="87" h="31" oX="309" oY="212" oW="257" oH="383" />
+  </Animation>
+  <Animation name="4" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="259" w="80" h="31" oX="15" oY="259" oW="300" oH="350" />
+    <sprite x="105" y="259" w="80" h="31" oX="105" oY="259" oW="300" oH="350" />
+    <sprite x="195" y="259" w="79" h="31" oX="195" oY="259" oW="300" oH="350" />
+    <sprite x="284" y="259" w="79" h="31" oX="284" oY="259" oW="300" oH="350" />
+  </Animation>
+  <Animation name="3" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="306" w="71" h="31" oX="15" oY="306" oW="342" oH="314" />
+    <sprite x="96" y="306" w="71" h="31" oX="96" oY="306" oW="342" oH="314" />
+    <sprite x="177" y="306" w="72" h="31" oX="177" oY="306" oW="342" oH="314" />
+    <sprite x="259" y="306" w="72" h="31" oX="259" oY="306" oW="342" oH="314" />
+  </Animation>
+  <Animation name="2" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="353" w="63" h="28" oX="15" oY="353" oW="383" oH="282" />
+    <sprite x="88" y="353" w="63" h="28" oX="88" oY="353" oW="383" oH="282" />
+    <sprite x="161" y="353" w="64" h="28" oX="161" oY="353" oW="383" oH="282" />
+    <sprite x="235" y="352" w="64" h="29" oX="235" oY="352" oW="383" oH="282" />
+  </Animation>
+  <Animation name="1" imagePath="aladdin sheet2.png" width="541" height="430" delay="4">
+    <sprite x="15" y="397" w="48" h="23" oX="15" oY="397" oW="418" oH="48" />
+  </Animation>
+</Animations>

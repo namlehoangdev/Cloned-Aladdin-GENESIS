@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="empty" imagePath="explosion.png" width="620" height="315">
+    <sprite x="274" y="295" w="56" h="19" oX="274" oY="295" oW="59" oH="56" />
+  </Animation>
+</Animations>

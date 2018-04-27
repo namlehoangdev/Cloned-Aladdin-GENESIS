@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Idle" imagePath="Aladdin.png" width="1121" height="2718">
+    <sprite x="197" y="6" w="41" h="50" oX="197" oY="6" oW="-191" oH="333" />
+    <sprite x="47" y="11" w="41" h="46" oX="47" oY="11" oW="-191" oH="333" />
+    <sprite x="3" y="9" w="37" h="49" oX="3" oY="9" oW="-191" oH="333" />
+    <sprite x="95" y="6" w="40" h="51" oX="95" oY="6" oW="-191" oH="333" />
+    <sprite x="143" y="3" w="44" h="54" oX="143" oY="3" oW="-191" oH="333" />
+    <sprite x="95" y="6" w="40" h="51" oX="95" oY="6" oW="-191" oH="333" />
+    <sprite x="47" y="11" w="41" h="46" oX="47" oY="11" oW="-191" oH="333" />
+    <sprite x="3" y="9" w="37" h="49" oX="3" oY="9" oW="-191" oH="333" />
+    <sprite x="197" y="6" w="41" h="50" oX="197" oY="6" oW="-191" oH="333" />
+    <sprite x="250" y="5" w="42" h="50" oX="250" oY="5" oW="-191" oH="333" />
+    <sprite x="303" y="2" w="44" h="52" oX="303" oY="2" oW="-191" oH="333" />
+    <sprite x="250" y="5" w="42" h="50" oX="250" oY="5" oW="-191" oH="333" />
+  </Animation>
+</Animations>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	<Animation width="221" height="915" name="HumanIdle" imagePath="BossSprite.png" delay="0">
+		<sprite x="0" right="64" w="64" y="0" h="70" bottom="70" />
+	</Animation>
+	<Animation width="221" height="915" name="HumanAttack" imagePath="BossSprite.png" delay="4">
+		<sprite x="0" right="84" w="84" y="0" h="70" bottom="70" />
+		<sprite x="0" right="84" w="84" y="86" h="69" bottom="155" />
+		<sprite x="0" right="84" w="84" y="169" h="68" bottom="237" />
+		<sprite x="0" right="84" w="84" y="273" h="67" bottom="340" />
+		<sprite x="0" right="84" w="84" y="368" h="68" bottom="436" />
+		<sprite x="0" right="84" w="84" y="457" h="68" bottom="525" />
+		<sprite x="0" right="85" w="86" y="555" h="68" bottom="623" />
+		<sprite x="0" right="84" w="84" y="641" h="68" bottom="709" />
+	</Animation>
+	<Animation width="221" height="915" name="AnacondaIdle" imagePath="BossSprite.png" delay="0">
+		<sprite x="122" right="186" w="64" y="644" h="83" bottom="727" />
+	</Animation>
+	<Animation width="221" height="915" name="AnacondaAttack" imagePath="BossSprite.png" delay="5">
+		<sprite x="119" right="219" w="100" y="13" h="57" bottom="70" />
+		<sprite x="136" right="202" w="66" y="86" h="63" bottom="149" />
+		<sprite x="123" right="215" w="92" y="169" h="71" bottom="240" />
+		<sprite x="117" right="221" w="104" y="249" h="71" bottom="320" />
+		<sprite x="118" right="220" w="102" y="337" h="83" bottom="420" />
+		<sprite x="118" right="220" w="102" y="454" h="82" bottom="536" />
+		<sprite x="117" right="221" w="104" y="549" h="81" bottom="630" />
+		<sprite x="123" right="215" w="92" y="644" h="83" bottom="727" />
+		<sprite x="135" right="203" w="68" y="742" h="81" bottom="823" />
+		<sprite x="117" right="221" w="104" y="854" h="60" bottom="914" />
+	</Animation>
+</Animations>
+

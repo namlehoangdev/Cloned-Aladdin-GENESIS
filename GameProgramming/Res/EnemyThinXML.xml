@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	<Animation width="1250" height="648" name="EnemyThinIdle" imagePath="Enemy1.png" delay="3">
+		<sprite x="35" right="79" w="44" y="7" h="57" bottom="64" />
+	</Animation>
+	<Animation width="1250" height="648" name="EnemyThinBeaten" imagePath="Enemy1.png" delay="3">
+		<sprite x="37" right="87" w="50" y="90" h="47" bottom="137" />
+		<sprite x="38" right="86" w="48" y="156" h="72" bottom="228" />
+		<sprite x="37" right="87" w="50" y="244" h="67" bottom="311" />
+		<sprite x="37" right="87" w="50" y="324" h="61" bottom="385" />
+		<sprite x="41" right="83" w="42" y="407" h="70" bottom="477" />
+		<sprite x="37" right="87" w="50" y="500" h="48" bottom="548" />
+		<sprite x="41" right="83" w="42" y="564" h="47" bottom="611" />
+	</Animation>
+	<Animation width="1250" height="648" name="EnemyThinSlash" imagePath="Enemy1.png" delay="3">
+		<sprite x="108" right="194" w="86" y="15" h="74" bottom="89" />
+		<sprite x="102" right="200" w="98" y="108" h="60" bottom="168" />
+		<sprite x="101" right="201" w="100" y="188" h="57" bottom="245" />
+		<sprite x="104" right="198" w="94" y="267" h="58" bottom="325" />
+		<sprite x="111" right="191" w="80" y="333" h="59" bottom="392" />
+		<sprite x="109" right="193" w="84" y="402" h="59" bottom="461" />
+		<sprite x="100" right="202" w="102" y="491" h="66" bottom="557" />
+	</Animation>
+	<Animation width="1250" height="648" name="EnemyThinRun" imagePath="Enemy1.png" delay="3">
+		<sprite x="228" right="290" w="62" y="23" h="66" bottom="89" />
+		<sprite x="235" right="283" w="48" y="107" h="65" bottom="172" />
+		<sprite x="232" right="286" w="54" y="190" h="64" bottom="254" />
+		<sprite x="222" right="296" w="74" y="273" h="63" bottom="336" />
+		<sprite x="241" right="277" w="36" y="343" h="65" bottom="408" />
+		<sprite x="230" right="288" w="58" y="422" h="66" bottom="488" />
+		<sprite x="222" right="296" w="74" y="495" h="66" bottom="561" />
+		<sprite x="232" right="286" w="54" y="566" h="64" bottom="630" />
+	</Animation>
+</Animations>

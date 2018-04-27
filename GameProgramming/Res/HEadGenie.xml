@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Head" imagePath="Items.png" width="678" height="627">
+    <sprite x="21" y="515" w="38" h="49" oX="21" oY="515" oW="587" oH="545" />
+    <sprite x="83" y="489" w="38" h="49" oX="83" oY="489" oW="587" oH="545" />
+    <sprite x="126" y="466" w="38" h="49" oX="126" oY="466" oW="587" oH="545" />
+    <sprite x="174" y="491" w="38" h="49" oX="174" oY="491" oW="587" oH="545" />
+    <sprite x="227" y="514" w="38" h="49" oX="227" oY="514" oW="587" oH="545" />
+    <sprite x="284" y="536" w="38" h="49" oX="284" oY="536" oW="587" oH="545" />
+    <sprite x="337" y="564" w="38" h="49" oX="337" oY="564" oW="587" oH="545" />
+    <sprite x="382" y="539" w="38" h="49" oX="382" oY="539" oW="587" oH="545" />
+    <sprite x="423" y="512" w="42" h="51" oX="423" oY="512" oW="587" oH="545" />
+    <sprite x="477" y="516" w="44" h="43" oX="477" oY="516" oW="587" oH="545" />
+    <sprite x="531" y="515" w="44" h="43" oX="531" oY="515" oW="587" oH="545" />
+  </Animation>
+</Animations>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="EnemusRun" imagePath="Enemy1.png" width="500" height="1096">
+    <sprite x="426" y="393" w="47" h="51" oX="426" oY="393" oW="557" oH="77" />
+    <sprite x="420" y="475" w="51" h="53" oX="420" oY="475" oW="557" oH="77" />
+    <sprite x="418" y="550" w="56" h="54" oX="418" oY="550" oW="557" oH="77" />
+    <sprite x="426" y="661" w="51" h="53" oX="426" oY="661" oW="557" oH="77" />
+    <sprite x="422" y="724" w="49" h="51" oX="422" oY="724" oW="557" oH="77" />
+    <sprite x="428" y="811" w="41" h="52" oX="428" oY="811" oW="557" oH="77" />
+    <sprite x="429" y="874" w="43" h="55" oX="429" oY="874" oW="557" oH="77" />
+    <sprite x="434" y="935" w="46" h="53" oX="434" oY="935" oW="557" oH="77" />
+  </Animation>
+</Animations>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	<Animation width="367" height="1015" name="EnemyJugIdle" imagePath="ChanTru.png" delay="3">
+		<sprite x="8" right="66" w="58" y="0" h="80" bottom="80" />
+		<sprite x="7" right="67" w="60" y="89" h="85" bottom="174" />
+		<sprite x="13" right="61" w="48" y="187" h="81" bottom="268" />
+		<sprite x="7" right="67" w="60" y="280" h="77" bottom="357" />
+		<sprite x="5" right="69" w="64" y="372" h="77" bottom="449" />
+		<sprite x="8" right="66" w="58" y="461" h="67" bottom="528" />
+	</Animation>
+	<Animation width="367" height="1015" name="EnemyJugSlash1" imagePath="ChanTru.png" delay="3">
+		<sprite x="0" right="76" w="76" y="541" h="79" bottom="620" />
+		<sprite x="2" right="74" w="72" y="632" h="85" bottom="717" />
+		<sprite x="0" right="76" w="76" y="738" h="81" bottom="819" />
+	</Animation>
+	<Animation width="367" height="1015" name="EnemyJugSlash2" imagePath="ChanTru.png" delay="3">
+		<sprite x="0" right="68" w="68" y="541" h="79" bottom="620" />
+		<sprite x="2" right="66" w="64" y="632" h="85" bottom="717" />
+		<sprite x="7" right="61" w="54" y="844" h="78" bottom="922" />
+		<sprite x="-1" right="69" w="70" y="937" h="77" bottom="1014" />
+	</Animation>
+</Animations>

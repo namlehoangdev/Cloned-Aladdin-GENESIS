@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	<Animation width="367" height="1015" name="EnemyJarIdle" imagePath="Enemy3.png" delay="3">
+		<sprite x="162" right="200" w="38" y="11" h="38" bottom="49" />
+		<sprite x="161" right="201" w="40" y="76" h="31" bottom="107" />
+		<sprite x="164" right="198" w="34" y="114" h="63" bottom="177" />
+		<sprite x="163" right="199" w="36" y="191" h="48" bottom="239" />
+		<sprite x="162" right="200" w="38" y="252" h="45" bottom="297" />
+		<sprite x="161" right="201" w="40" y="312" h="45" bottom="357" />
+	</Animation>
+	<Animation width="367" height="1015" name="EnemyJarSlash" imagePath="Enemy3.png" delay="3">
+		<sprite x="239" right="299" w="60" y="11" h="38" bottom="49" />
+		<sprite x="239" right="299" w="60" y="68" h="39" bottom="107" />
+		<sprite x="239" right="299" w="60" y="126" h="39" bottom="165" />
+		<sprite x="239" right="299" w="60" y="183" h="39" bottom="222" />
+	</Animation>
+	<Animation width="367" height="1015" name="EnemyJarRun" imagePath="Enemy3.png" delay="3">
+		<sprite x="311" right="365" w="54" y="13" h="44" bottom="57" />
+		<sprite x="314" right="362" w="48" y="68" h="45" bottom="113" />
+		<sprite x="316" right="360" w="44" y="122" h="50" bottom="172" />
+		<sprite x="319" right="357" w="38" y="177" h="50" bottom="227" />
+		<sprite x="314" right="362" w="48" y="240" h="50" bottom="290" />
+		<sprite x="314" right="362" w="48" y="299" h="48" bottom="347" />
+		<sprite x="310" right="366" w="56" y="362" h="45" bottom="407" />
+		<sprite x="315" right="361" w="46" y="421" h="47" bottom="468" />
+		<sprite x="316" right="360" w="44" y="481" h="51" bottom="532" />
+		<sprite x="318" right="358" w="40" y="539" h="52" bottom="591" />
+		<sprite x="312" right="364" w="52" y="597" h="52" bottom="649" />
+		<sprite x="310" right="366" w="56" y="662" h="49" bottom="711" />
+	</Animation>
+</Animations>

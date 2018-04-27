@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="NumberScore" imagePath="Number.png" width="308" height="68">
+    <sprite x="0" y="1" w="29" h="31" oX="0" oY="1" oW="-246" oH="308" />
+    <sprite x="34" y="1" w="16" h="31" oX="34" oY="1" oW="-246" oH="308" />
+    <sprite x="61" y="1" w="26" h="31" oX="61" oY="1" oW="-246" oH="308" />
+    <sprite x="92" y="2" w="20" h="31" oX="92" oY="2" oW="-246" oH="308" />
+    <sprite x="121" y="1" w="28" h="31" oX="121" oY="1" oW="-246" oH="308" />
+    <sprite x="154" y="1" w="28" h="32" oX="154" oY="1" oW="-246" oH="308" />
+    <sprite x="185" y="0" w="28" h="32" oX="185" oY="0" oW="-246" oH="308" />
+    <sprite x="216" y="0" w="24" h="32" oX="216" oY="0" oW="-246" oH="308" />
+    <sprite x="244" y="0" w="29" h="31" oX="244" oY="0" oW="-246" oH="308" />
+    <sprite x="279" y="1" w="28" h="32" oX="279" oY="1" oW="-246" oH="308" />
+  </Animation>
+  <Animation name="NumberCount" imagePath="Number.png" width="308" height="68">
+    <sprite x="1" y="44" w="16" h="15" oX="1" oY="44" oW="59" oH="178" />
+    <sprite x="21" y="44" w="12" h="15" oX="21" oY="44" oW="59" oH="178" />
+    <sprite x="37" y="44" w="16" h="15" oX="37" oY="44" oW="59" oH="178" />
+    <sprite x="55" y="44" w="16" h="15" oX="55" oY="44" oW="59" oH="178" />
+    <sprite x="73" y="44" w="15" h="15" oX="73" oY="44" oW="59" oH="178" />
+    <sprite x="91" y="44" w="16" h="15" oX="91" oY="44" oW="59" oH="178" />
+    <sprite x="109" y="44" w="16" h="15" oX="109" oY="44" oW="59" oH="178" />
+    <sprite x="127" y="44" w="16" h="15" oX="127" oY="44" oW="59" oH="178" />
+    <sprite x="145" y="44" w="15" h="15" oX="145" oY="44" oW="59" oH="178" />
+    <sprite x="163" y="44" w="16" h="15" oX="163" oY="44" oW="59" oH="178" />
+  </Animation>
+</Animations>

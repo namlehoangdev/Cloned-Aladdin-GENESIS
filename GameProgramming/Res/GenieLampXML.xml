@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+	  <Animation name="Idle" imagePath="items.png" width="664" height="471">
+    <sprite x="369" y="15" w="32" h="15" oX="369" oY="15" oW="-330" oH="32" />
+  </Animation>
+</Animations>

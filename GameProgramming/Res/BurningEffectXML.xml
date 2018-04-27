@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Burning" imagePath="BurningEffect.png" width="500" height="53" delay="3">
+    <sprite x="11" y="0" w="26" h="52" oX="11" oY="0" oW="-339" oH="393" />
+    <sprite x="42" y="0" w="26" h="52" oX="42" oY="0" oW="-339" oH="393" />
+    <sprite x="76" y="0" w="26" h="52" oX="76" oY="0" oW="-339" oH="393" />
+    <sprite x="109" y="0" w="27" h="52" oX="109" oY="0" oW="-339" oH="393" />
+    <sprite x="148" y="0" w="38" h="52" oX="148" oY="0" oW="-339" oH="393" />
+    <sprite x="197" y="0" w="29" h="52" oX="197" oY="0" oW="-339" oH="393" />
+    <sprite x="235" y="0" w="26" h="52" oX="235" oY="0" oW="-339" oH="393" />
+    <sprite x="269" y="0" w="26" h="52" oX="269" oY="0" oW="-339" oH="393" />
+    <sprite x="304" y="0" w="53" h="52" oX="304" oY="0" oW="-339" oH="393" />
+    <sprite x="378" y="0" w="26" h="52" oX="378" oY="0" oW="-339" oH="393" />
+  </Animation>
+  <Animation name="Empty" imagePath="BurningEffect.png" width="500" height="53" delay="3">
+    <sprite x="432" y="0" w="68" h="52" oX="432" oY="0" oW="-372" oH="68" />
+  </Animation>
+</Animations>

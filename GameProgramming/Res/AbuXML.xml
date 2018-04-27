@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Encorage" imagePath="Abu.png" width="428" height="187" delay="4">
+    <sprite x="11" y="32" w="68" h="28" oX="11" oY="32" oW="-254" oH="410" />
+    <sprite x="86" y="25" w="57" h="35" oX="86" oY="25" oW="-254" oH="410" />
+    <sprite x="152" y="17" w="57" h="43" oX="152" oY="17" oW="-254" oH="410" />
+    <sprite x="218" y="7" w="58" h="53" oX="218" oY="7" oW="-254" oH="410" />
+    <sprite x="285" y="8" w="51" h="52" oX="285" oY="8" oW="-254" oH="410" />
+    <sprite x="350" y="13" w="63" h="47" oX="350" oY="13" oW="-254" oH="410" />
+  </Animation>
+  <Animation name="Idle" imagePath="Abu.png" width="428" height="187" delay="4">
+    <sprite x="14" y="136" w="44" h="41" oX="14" oY="136" oW="168" oH="263" />
+    <sprite x="69" y="136" w="43" h="41" oX="69" oY="136" oW="168" oH="263" />
+    <sprite x="124" y="136" w="43" h="41" oX="124" oY="136" oW="168" oH="263" />
+    <sprite x="178" y="137" w="44" h="40" oX="178" oY="137" oW="168" oH="263" />
+    <sprite x="233" y="138" w="44" h="39" oX="233" oY="138" oW="168" oH="263" />
+  </Animation>
+  <Animation name="Run" imagePath="Abu.png" width="428" height="187" delay="4">
+    <sprite x="18" y="84" w="25" h="32" oX="18" oY="84" oW="97" oH="367" />
+    <sprite x="52" y="84" w="41" h="32" oX="52" oY="84" oW="97" oH="367" />
+    <sprite x="101" y="85" w="52" h="31" oX="101" oY="85" oW="97" oH="367" />
+    <sprite x="161" y="80" w="40" h="36" oX="161" oY="80" oW="97" oH="367" />
+    <sprite x="211" y="81" w="34" h="35" oX="211" oY="81" oW="97" oH="367" />
+    <sprite x="255" y="81" w="44" h="35" oX="255" oY="81" oW="97" oH="367" />
+    <sprite x="312" y="83" w="49" h="33" oX="312" oY="83" oW="97" oH="367" />
+    <sprite x="371" y="86" w="46" h="30" oX="371" oY="86" oW="97" oH="367" />
+  </Animation>
+</Animations>

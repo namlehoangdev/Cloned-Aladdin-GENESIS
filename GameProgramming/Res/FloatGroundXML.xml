@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="New" imagePath="FloatGround.png" width="70" height="30" delay="3">
+    <sprite x="18" y="0" w="33" h="13" oX="18" oY="0" oW="5" oH="33" />
+    <sprite x="18" y="0" w="33" h="13" oX="18" oY="0" oW="5" oH="33" />
+    <sprite x="18" y="0" w="33" h="13" oX="18" oY="0" oW="5" oH="33" />
+
+  </Animation>
+  <Animation name="Broken" imagePath="FloatGround.png" width="70" height="30">
+    <sprite x="18" y="15" w="44" h="14" oX="18" oY="15" oW="26" oH="44" />
+  </Animation>
+</Animations>
